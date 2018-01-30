@@ -1,0 +1,3 @@
+<div id="messages"></div>
+<input id="name" type="text" placeholder="name"></input>
+<input id="chat-input" type="text" placeholder="message"></input>
